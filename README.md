@@ -1,2 +1,2 @@
 # product-card
- fronten mentor practice HTML/CSS
+ frontend mentor practice HTML/CSS
